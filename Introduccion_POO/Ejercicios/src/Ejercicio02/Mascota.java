@@ -14,6 +14,8 @@ public class Mascota {
         this.especie = especie;
         this.edad = edad;
         
+        // Getters y Setters
+        
     }
 
     public String getNombre() {

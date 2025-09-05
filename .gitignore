@@ -59,3 +59,12 @@
 /Introduccion_POO/Ejercicio01/build/
 /POO/TP_4_POO/nbproject/private/
 /POO/TP_4_POO/build/
+
+*.class
+*.log
+*.jar
+/bin/
+/target/
+/.idea/
+/.vscode/
+/.dotx/

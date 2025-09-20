@@ -1,0 +1,113 @@
+/Introduccion_Java/Ejercicio03/JavaApplication35/nbproject/private/
+/Introduccion_Java/Ejercicio03/ejercicio03/nbproject/private/
+/Introduccion_Java/Ejercicio03/ejercicio03/build/
+/Introduccion_Java/Ejercicio04/ejercicio04/nbproject/private/
+/Introduccion_Java/Ejercicio04/ejercicio04/build/
+/Introduccion_Java/Ejercicio05/ejercicio05/nbproject/private/
+/Introduccion_Java/Ejercicio05/ejercicio05/build/
+/Introduccion_Java/Ejercicio06/ejercicio06/nbproject/private/
+/Introduccion_Java/Ejercicio06/ejercicio06/build/
+/Introduccion_Java/Ejercicio07/ejercicio07/nbproject/private/
+/Introduccion_Java/Ejercicio08/ejercicio08/nbproject/private/
+/Introduccion_Java/Ejercicio08/ejercicio08/build/
+/Introduccion_Java/Ejercicio09/ejercicio09/nbproject/private/
+/Introduccion_Java/Ejercicio09/ejercicio09/build/
+/Introduccion_Java/Ejercicio09/prácticas/nbproject/private/
+/Introduccion_Java/Ejercicio09/prácticas/build/
+/Introduccion_Java/Ejercicio09/Funciones1/nbproject/private/
+/Introduccion_Java/Ejercicio09/Recursividad/nbproject/private/
+/Introduccion_Java/Ejercicio09/Recursividad/build/
+/Introduccion_Java/Ejercicio09/arrays/nbproject/private/
+/Introduccion_Java/Ejercicio09/arrays/build/
+/Programacion estructurada/ejercicio01/nbproject/private/
+/Programacion estructurada/ejercicio02/nbproject/private/
+/Programacion estructurada/ejercicio01/build/
+/Programacion estructurada/ejercicio02/build/
+/Programacion estructurada/Ejercicio03/nbproject/private/
+/Programacion estructurada/Ejercicio03/build/
+/Programacion estructurada/Ejercicio04/nbproject/private/
+/Programacion estructurada/Ejercicio04/build/
+/Programacion estructurada/Ejercicio05/nbproject/private/
+/Programacion estructurada/Ejercicio05/build/
+/Programacion estructurada/Ejercicio06/nbproject/private/
+/Programacion estructurada/Ejercicio06/build/
+/Programacion estructurada/Ejercicio07/nbproject/private/
+/Programacion estructurada/Ejercicio07/build/
+/Programacion estructurada/Ejercicio08/nbproject/private/
+/Programacion estructurada/Ejercicio08/build/
+/Programacion estructurada/Ejercicio09/nbproject/private/
+/Programacion estructurada/Ejercicio09/build/
+/Programacion estructurada/Ejercicio10/nbproject/private/
+/Programacion estructurada/Ejercicio10/build/
+/Programacion estructurada/Ejercicio11/nbproject/private/
+/Programacion estructurada/Ejercicio11/build/
+/Programacion estructurada/Ejercicio12/nbproject/private/
+/Programacion estructurada/Ejercicio12/build/
+/Programacion estructurada/Ejercicio13/nbproject/private/
+/Programacion estructurada/Ejercicio13/build/
+/Introduccion_POO/estadoobjeto/nbproject/private/
+/Introduccion_POO/estadoobjeto/build/
+/Introduccion_POO/comportamientoobjetos/nbproject/private/
+/Introduccion_POO/comportamientoobjetos/build/
+/Introduccion_POO/Nueva Carpeta/ejercicio01/nbproject/private/
+/Introduccion_POO/Nueva Carpeta/ejercicio01/build/
+/Introduccion_POO/TP_Unidad/ejercicio01/build/
+/Introduccion_POO/TP_Unidad/ejercicio01/nbproject/private/
+/Introduccion_POO/TP_Unidad/Ejercicio02/nbproject/private/
+/Introduccion_POO/Ejercicio01/nbproject/private/
+/Introduccion_POO/Ejercicio02/nbproject/private/
+/Introduccion_POO/Ejercicio01/build/
+/POO/TP_4_POO/nbproject/private/
+/POO/TP_4_POO/build/
+
+*.class
+*.log
+*.jar
+/bin/
+/target/
+/.idea/
+/.vscode/
+/.dotx/
+
+# Archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios de compilación
+/bin/
+/build/
+/target/
+/out/
+
+# Configuración de IDEs
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+*.doc
+*.docx
+/POO/TP_5_UML/nbproject/private/
+/POO/TP5_UML/nbproject/private/

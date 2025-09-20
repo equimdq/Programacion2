@@ -17,20 +17,17 @@ Este repositorio contiene todos los trabajos prácticos realizados durante el se
 
 Los trabajos prácticos están organizados según el cronograma académico oficial:
 
-| Semana | Tema Principal |
+| Unidad| Tema Principal |
 |--------|----------------|
 | 1      | Introducción a Java |
-| 2–3    | Programación estructurada |
-| 4      | Introducción a la Programación Orientada a Objetos (POO) |
-| 5      | POO: `this`, constructores, métodos estáticos |
-| 6      | UML básico: relaciones, dependencias, acoplamiento |
-| 7      | Examen Parcial 1 |
-| 8      | Colecciones y estructuras dinámicas |
-| 9–10   | Herencia y Polimorfismo |
-| 11     | Interfaces y Excepciones |
-| 12     | Genéricos en Java - Examen Parcial 2 |
-| 13–15  | Acceso a datos con JDBC |
-| 16     | Examen Integrador y Recuperatorio |
+| 2      | Programación estructurada |
+| 3      | Introducción a la Programación Orientada a Objetos (POO) |
+| 4      | POO: `this`, constructores, métodos estáticos |
+| 5      | UML básico: relaciones, dependencias, acoplamiento |
+| 6      | Colecciones y estructuras dinámicas |
+| 7      | Herencia y Polimorfismo |
+| 8      | Interfaces y Excepciones |
+| 9      | Acceso a datos con JDBC |
 
 ## 📂 Estructura del repositorio
 
@@ -54,7 +51,7 @@ Cada carpeta `ejercicioXX` contiene las clases Java correspondientes al trabajo 
 Este proyecto fue desarrollado en **NetBeans**, pero puede ejecutarse desde cualquier entorno compatible con Java 8+.
 
 ### Desde NetBeans:
-1. Abrir el proyecto desde `TP5_UML`.
+1. Abrir el proyecto
 2. Ejecutar el archivo `MainX.java` correspondiente al ejercicio deseado.
 
 ### Desde consola:

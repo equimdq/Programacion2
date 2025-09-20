@@ -107,3 +107,7 @@ nbbuild/
 dist/
 nbdist/
 
+*.doc
+*.docx
+/POO/TP_5_UML/nbproject/private/
+/POO/TP5_UML/nbproject/private/

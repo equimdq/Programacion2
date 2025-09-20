@@ -1,6 +1,15 @@
 # Programación II - UTN (Segundo Trimestre 2025)
 
-https://camo.githubusercontent.com/f0661ac8cc505d3caa7f55d3f9b5de1539e5db74c2e2c3bef7a6db43c3074389/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36372f55544e5f6c6f676f2e6a70672f32373070782d55544e5f6c6f676f2e6a7067
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UTN_logo.jpg/270px-UTN_logo.jpg" alt="Logo UTN" width="60">
+    </td>
+    <td style="vertical-align: middle;">
+      <h1>UTN‑TUPaD Programación 1</h1>
+    </td>
+  </tr>
+</table>
 
 Este repositorio contiene todos los trabajos prácticos realizados durante el segundo trimestre de la materia **Programación II** de la **Tecnicatura Universitaria en Programación** (UTN - modalidad a distancia).
 

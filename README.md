@@ -6,7 +6,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UTN_logo.jpg/270px-UTN_logo.jpg" alt="Logo UTN" width="60">
     </td>
     <td style="vertical-align: middle;">
-      <h1>UTN‑TUPaD Programación 1</h1>
+      <h1>UTN‑TUPaD Programación 2</h1>
     </td>
   </tr>
 </table>

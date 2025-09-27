@@ -17,7 +17,7 @@ public class Pasaporte {
     public Pasaporte(String numero, String fecha_emision, String imagenFoto, String formatoFoto) {
         this.numero = numero;
         this.fecha_emision = fecha_emision;
-        this.foto = new Foto(imagenFoto, formatoFoto); //Bidireccionalidad: el titular también conoce su pasaporte
+        this.foto = new Foto(imagenFoto, formatoFoto); 
     }
     // Get y Set
     
